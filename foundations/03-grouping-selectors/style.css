@@ -1,0 +1,15 @@
+/* style.css */
+
+button{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+button.class-1{
+    background-color: black;
+    color: white;
+}
+
+button.class-2{
+    background-color: #ffee00;
+}
